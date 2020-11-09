@@ -1,4 +1,4 @@
-# Styles lib
+# JS lib
 
 Some js for use in my github projects
 
