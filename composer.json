@@ -4,7 +4,7 @@
   "type": "library",
   "keywords": ["js"],
   "homepage": "https://github.com/walter-a-jablonowski/js-lib",
-  "license": "MIT (modified)",
+  "license": "MIT",
   "authors": [
     {
       "name": "Walter A. Jablonowski",
